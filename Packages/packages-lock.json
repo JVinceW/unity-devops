@@ -225,6 +225,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jvl.tool.unity-devops": {
+      "version": "file:../jvl.tool.unitydevops",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
