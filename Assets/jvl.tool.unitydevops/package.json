@@ -1,0 +1,26 @@
+{
+  "name": "jvl.tool.unity-devops",
+  "displayName": "Unity DevOps Tools",
+  "version": "1.0.0",
+  "description": "Some DevOps tools summary",
+  "dependencies": {},
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "tool"
+  ],
+  "homepage": "https://github.com/JVinceW/unity-devops",
+  "bugs": {
+    "url": "https://github.com/JVinceW/unity-devops/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JVinceW/unity-devops.git"
+  },
+  "license": "MIT",
+  "author": "JVVince",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

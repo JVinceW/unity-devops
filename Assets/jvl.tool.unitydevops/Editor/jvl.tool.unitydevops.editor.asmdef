@@ -1,0 +1,14 @@
+{
+    "name": "jvl.tool.unitydevops.editor",
+    "rootNamespace": "jvl.tool.unitydevops",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
